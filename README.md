@@ -1,6 +1,6 @@
 This script allows you to move Spotify playlists over to Google Play Music in a fast method with best matching. Songs not matched/found are printed out at the end.
 <br>
-To use, you MUST have configured Google to create an Android device on your account. There are 2 options
+To use, you MUST have configured Google to create an Android device on your account. There are 2 options<br>
     1. Login to your Google account from an Android device and play a song.<br>
     2. Download BlueStacks for Windows. Login to your Google account, Open Google Play Music and play a song.<br>
 <br>
