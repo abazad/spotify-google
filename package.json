@@ -1,0 +1,36 @@
+{
+  "name": "spotify-google",
+  "version": "1.0.0",
+  "description": "Converts Spotify track listings to Google Play Music Playlist",
+  "main": "spotify.js",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "playmusic": "^2.1.1",
+    "fast-levenshtein": "^1.1.0",
+    "colors": "^1.1.2",
+    "yargs": "^3.31.0",
+    "spotify-web-api-node": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayzorben/spotify-google.git"
+  },
+  "keywords": [
+    "spotify",
+    "google",
+    "play",
+    "music",
+    "transfer",
+    "songs"
+  ],
+  "author": "RayzorBen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayzorben/spotify-google/issues"
+  },
+  "homepage": "https://github.com/rayzorben/spotify-google#readme"
+}
